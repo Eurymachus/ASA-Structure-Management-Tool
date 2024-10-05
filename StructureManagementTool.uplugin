@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "20F2E49D4ECE4A4B9F44FDACD1A8EF71",
+	"FriendlyName": "Structure Management Tool",
+	"Description": "A tool for management personal and tribe structures depending on tribe permissions&cf_ugcID=955451",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://legacy.curseforge.com/ark-survival-ascended/mods/structure-management-tool",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
